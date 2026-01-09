@@ -1,0 +1,13 @@
+{
+  "label": "Power Behind the Throne – Items (ES)",
+  "mapping": {
+    "Item": {
+      "wfrp4e-pbtt.items": {
+        "pRv588jk98HvBrCq": {
+          "name": "Aplastar a los Débiles",
+          "system.description.value": "<p>El desprecio de Ulric por los débiles y los cobardes te invade. Una vez por Asalto, puedes repetir un ataque fallido.</p>"
+        }
+      }
+    }
+  }
+}

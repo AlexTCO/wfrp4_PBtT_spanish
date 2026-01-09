@@ -1,20 +1,29 @@
 {
-  "id": "wfrp4e-PBtT-spanish",
-  "title": "WFRP4e – Traducción personal de Power Behind the Throne",
-  "description": "Traducción de compendios para WFRP4e- Power Behind the Throne",
+  "id": "wfrp4e-pbtt-es",
+  "title": "WFRP4e – Power Behind the Throne (ES)",
+  "description": "Corrección y traducción del pack de Items de Power Behind the Throne",
   "version": "0.1.0",
-  "minimumCoreVersion": "13",
-  "compatibleCoreVersion": "13",
   "authors": [
     {
-      "name": "AlexTCO"
+      "name": "Alex"
     }
   ],
-  "dependencies": [
-    {
-      "name": "babele"
-    }
-  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module"
+      },
+      {
+        "id": "wfrp4e-pbtt",
+        "type": "module"
+      }
+    ]
+  },
   "languages": [
     {
       "lang": "es",
