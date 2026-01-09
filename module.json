@@ -1,0 +1,25 @@
+{
+  "id": "wfrp4e-PBtT-spanish",
+  "title": "WFRP4e – Traducción personal de Power Behind the Throne",
+  "description": "Traducción de compendios para WFRP4e- Power Behind the Throne",
+  "version": "0.1.0",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "authors": [
+    {
+      "name": "AlexTCO"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "babele"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ]
+}
